@@ -1,7 +1,7 @@
 # Getting Started with the Angular Slider Component
 A quick start project that shows how to create and configure the Syncfusion Angular Range Slider component in a Angular project. This project contains the code for binding values, applying ranges, types, tooltips, ticks, formats, and limits. You will also find the code to customize the Range Slider using CSS class. 
  
-Refer to the following documentation to learn about the Angular Slider component: 
+Refer to the following documentation to learn about the Angular Slider component:
 https://ej2.syncfusion.com/angular/documentation/range-slider/getting-started
 
 Check out this online example of the Angular Slider Component:
