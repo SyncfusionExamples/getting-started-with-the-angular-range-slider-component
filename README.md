@@ -1,27 +1,14 @@
-# Myangularapp
+# Getting Started with the Angular Slider Component
+A quick start project that shows how to create and configure the Syncfusion React Range Slider component in a React project. This project contains the code for binding values, applying ranges, types, tooltips, ticks, formats, and limits. You will also find the code to customize the Range Slider using CSS class. 
+ 
+Refer to the following documentation to learn about the Angular Slider component: 
+https://ej2.syncfusion.com/angular/documentation/range-slider/getting-started
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+Check out this online example of the Angular Slider Component:
+https://ej2.syncfusion.com/angular/demos/#/fluent2/range-slider/default
 
-## Development server
+Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### How to run this application?
+To run this application, you need to clone the `getting-started-with-the-angular-slider-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary angular packages into your current project using the `npm install` command and run your project using the `ng serve` command.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
