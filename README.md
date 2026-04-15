@@ -1,16 +1,60 @@
 # Getting Started with the Angular Slider Component
-A quick start project that shows how to create and configure the Syncfusion Angular Range Slider component in a Angular project. This project contains the code for binding values, applying ranges, types, tooltips, ticks, formats, and limits. You will also find the code to customize the Range Slider using CSS class. 
- 
-Refer to the following documentation to learn about the Angular Slider component:
 
-https://ej2.syncfusion.com/angular/documentation/range-slider/getting-started
+A quick start project demonstrating how to create and configure the Syncfusion Angular Range Slider component. This project includes examples for binding values, applying ranges, types, tooltips, ticks, formats, and limits, with comprehensive CSS customization options.
 
-Check out this online example of the Angular Slider Component:
+## Features
 
-https://ej2.syncfusion.com/angular/demos/#/fluent2/range-slider/default
+- Value binding and range configuration
+- Multiple slider types and variations
+- Interactive tooltips and tick marks
+- Custom formatting and value limits
+- CSS class customization for styling
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+## Prerequisites
 
-### How to run this application?
-To run this application, you need to clone the `getting-started-with-the-angular-range-slider-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary angular packages into your current project using the `npm install` command and run your project using the `ng serve` command.
+Ensure you have the following installed:
 
+- **Node.js**: Latest LTS version
+- **npm**: Node Package Manager
+- **Angular CLI**: Latest version
+- **Visual Studio Code**: Latest version
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-repository/getting-started-with-the-angular-range-slider-component.git
+   cd getting-started-with-the-angular-range-slider-component
+   ```
+
+2. Open in Visual Studio Code and install dependencies:
+   ```
+   npm install
+   ```
+
+## How to Run
+
+Run the application in development mode:
+
+```
+ng serve
+```
+
+The app will start on `http://localhost:4200/` and automatically reload on code changes.
+
+## Configuration
+
+Customize the Range Slider through:
+- Range values and step increments
+- Orientation (horizontal/vertical)
+- Tooltip visibility and format
+- Theme and styling options
+
+## Documentation & Resources
+
+- **Official Documentation**: https://ej2.syncfusion.com/angular/documentation/range-slider/getting-started
+- **Live Demo**: https://ej2.syncfusion.com/angular/demos/#/fluent2/range-slider/default
+
+## Support & License
+
+For support, refer to the official Syncfusion documentation and community forums. This project is provided as a quick start guide; please review Syncfusion license terms for usage rights.
